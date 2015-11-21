@@ -1,30 +1,4 @@
-div.word_wrap { 
-	white-space: pre-wrap;      /* CSS3 */   
-	white-space: -moz-pre-wrap; /* Firefox */    
-	white-space: -pre-wrap;     /* Opera <7 */   
-	white-space: -o-pre-wrap;   /* Opera 7 */    
-	word-wrap: break-word;      /* IE */
-}
-#output{
-	position:absolute;
-	background: yellow;
-	left: 100px;
-	top: 375px;
-	height: 60px;
-	width: 550px;
-	z-index:1000;
-	border-radius: 20px;
-    padding-left: 20px;
-	padding-top: 5px;
-}
-#control_button{
-	position:absolute;
-	left: 320px;
-	top: 180px;
-	height: 50px;
-	width: 100px;
-}
-</style>
+
 <script type="text/javascript">
 	//declare and init variables
 	var canvas;
