@@ -1,5 +1,3 @@
-
-<script type="text/javascript">
 	//declare and init variables
 	var canvas;
 	var context;
